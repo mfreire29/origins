@@ -5,7 +5,7 @@
 Desde la terminal, usa el siguiente comando:
 
 ```
-git clone https://github.com/mfreire29/challenge.git
+git clone https://github.com/mfreire29/origins.git
 ```
 
 ### `npm i`
